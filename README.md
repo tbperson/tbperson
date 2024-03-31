@@ -14,4 +14,4 @@
 ## Socials
 - https://www.youtube.com/channel/UCnEvASiaprwnhn4cLhol10A
 - https://github.com/tbperson/tbperson
-- tylerjbarlow@outlook.com
+
