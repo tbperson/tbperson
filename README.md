@@ -18,5 +18,5 @@
 - https://www.youtube.com/channel/UCnEvASiaprwnhn4cLhol10A
 - https://github.com/tbperson/tbperson
 
-Return COBOL to its former glory
+Return COBOL to its former glory -hamish
 
