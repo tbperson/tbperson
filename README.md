@@ -11,7 +11,7 @@
 ## Sport
 ### Hockey
 * Field hockey player (2018-present)
-* Field hockey coach (2022-present)
+* Field hockey coach (2022-25)
 ### Gym
 * Home gym (2022-present)
 ## Socials
