@@ -1,9 +1,7 @@
 **Tyler**
 ===============
-## A levels
-* Computer Science
-* Mathematics
-* Geography
+## Education
+- BSc Computer Science @ Keele university
 ## Coding
 * Javascript
 * Python
