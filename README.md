@@ -2,11 +2,8 @@
 ===============
 ## Education
 - BSc Computer Science @ Keele university
-## Coding
-* Javascript
-* Python
-* C#
-## Sport
+## Current projects
+* 🏠 **[RateMyAccom](https://ratemyaccom.cc)** - Currently serving as **CTO**, preparing the site for launch
 ### Hockey
 * Field hockey player (2018-present)
 * Field hockey coach (2022-25)
